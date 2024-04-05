@@ -1,6 +1,7 @@
 Wallet Composable with SDUI
 
 Data model:
+```
  {
             "type": "WALLET_CARDS",
             "data": {
@@ -47,6 +48,8 @@ Data model:
                     }
                 ]
             }
-        },
+        }
+```
 
-Figma link: https://www.figma.com/file/IbnSDojGOdICYj5EflcqOw/Now-In-ThinkUp?type=design&node-id=4%3A84&mode=design&t=8gqXlIneytvKuE1k-1
+Figma link:
+ https://www.figma.com/file/IbnSDojGOdICYj5EflcqOw/Now-In-ThinkUp?type=design&node-id=4%3A84&mode=design&t=8gqXlIneytvKuE1k-1
