@@ -1,6 +1,6 @@
-###Wallet Composable with SDUI
+### Wallet Composable with SDUI
 
-##Data model:
+## Data model:
 ```
  {
             "type": "WALLET_CARDS",
@@ -51,11 +51,11 @@
         }
 ```
 
-Figma link:
+# Figma link:
  https://www.figma.com/file/IbnSDojGOdICYj5EflcqOw/Now-In-ThinkUp?type=design&node-id=4%3A84&mode=design&t=8gqXlIneytvKuE1k-1
 
 
-
+# Video example:
 
 https://github.com/thinkupsoft/AOS-WalletComposable/assets/49696989/e2eb489f-ab5e-4949-8bc5-df59de484150
 
