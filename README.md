@@ -1,5 +1,10 @@
 # Wallet Composable with SDUI
 
+This library helps you to create a great looking Fintech App with these animated cards. 
+Cards can be customize with the data that you send, being able to change the color, name, brand, bank, etc. 
+The following data model is thought to work with Server Driven UI. 
+
+
 ### Data model:
 ```
  {
