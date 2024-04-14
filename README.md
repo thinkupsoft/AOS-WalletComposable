@@ -56,6 +56,25 @@ The following data model is thought to work with Server Driven UI.
         }
 ```
 
+### Integrate the library
+
+Step 1:
+```
+dependencyResolutionManagement {
+		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+		repositories {
+			mavenCentral()
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+Step 2:
+```
+dependencies {
+	        implementation 'com.github.thinkupsoft:AOS-WalletComposable:{{wallet_library_version}}'
+	}
+```
+
 ### Figma link:
  https://www.figma.com/file/IbnSDojGOdICYj5EflcqOw/Now-In-ThinkUp?type=design&node-id=4%3A84&mode=design&t=8gqXlIneytvKuE1k-1
 
